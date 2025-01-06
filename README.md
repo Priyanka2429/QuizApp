@@ -68,9 +68,9 @@ A dynamic and interactive quiz application built using **HTML**, **CSS**, **Java
 
 ## 🖼️ Screenshots
 
-_Add screenshots of the app here to visually demonstrate its features._
+![Screenshot 2025-01-06 125101](https://github.com/user-attachments/assets/7f1cf673-0113-413b-932c-00223278dd1d)
 
----
+
 
 ## 🤝 Contributing
 
