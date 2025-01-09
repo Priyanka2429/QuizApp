@@ -70,38 +70,3 @@ A dynamic and interactive quiz application built using **HTML**, **CSS**, **Java
 
 ![Screenshot 2025-01-06 125101](https://github.com/user-attachments/assets/7f1cf673-0113-413b-932c-00223278dd1d)
 
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 💡 Future Enhancements
-
-- Add user authentication for personalized quizzes.
-- Introduce leaderboards to compare scores with others.
-- Include dark mode for better accessibility.
-
----
-
-## 🌟 Show Your Support
-
-If you like this project, give it a ⭐ and share it with others!
-
----
-
-## 📧 Contact
-
-For any queries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Happy Quizzing! 📝🎉
